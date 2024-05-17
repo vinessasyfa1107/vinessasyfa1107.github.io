@@ -1,0 +1,39 @@
+{
+    "result": [
+    {
+      "no": "1",
+      "name": "Rio Haryanto",
+      "birth_date": "22 Januari 1993",
+      "International": "Indonesia",
+      "Poster": "https://vinessasyfa1107.github.io/gambar/1.jpeg"
+    },
+    {
+      "no": "2",
+      "name": "Muhammad Sean Ricardo",
+      "birth_date": "November 1, 1996",
+      "International": "Indonesia",
+      "Poster": "https://vinessasyfa1107.github.io/gambar/2.jpg"
+    },
+    {
+      "no": "3",
+      "name": "Philo Paz Patric Armand",
+      "birth_date": "March 12, 1996",
+      "International": "Indonesia",
+      "Poster": "https://vinessasyfa1107.github.io/gambar/3.jpg"
+    },
+    {
+      "no": "4",
+      "name": "Alexandra Asmasoebrata",
+      "birth_date": "23 Mei 1988",
+      "International": "Indonesia",
+      "Poster": "https://vinessasyfa1107.github.io/gambar/4.jpg"
+    },
+    {
+      "no": "5",
+      "name": "Alvin Bahar",
+      "birth_date": "-",
+      "International": "Indonesia",
+      "Poster": "https://vinessasyfa1107.github.io/gambar/5.jpg"
+    }
+   ]
+  }
